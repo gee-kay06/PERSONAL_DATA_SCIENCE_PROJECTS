@@ -1,7 +1,7 @@
 # Details
 Build a decision tree classifier to predict whether a customer will subscribe to a Term deposit based on their demographic and behavioural data. 
 ## The dataset can be found in the folder
-It is a bank marketing dataset from the UCI Machine Learning Repository. The data is related to a Portuguese banking institution's direct mrketing campaigns(phone calls). Often, more than one contact to the same client was required, to access if the product(Bank Term Deposit) would be yes or no
+It is a bank marketing dataset from the UCI Machine Learning Repository. The data is related to a Portuguese banking institution's direct marketing campaigns(phone calls). Often, more than one contact to the same client was required, to access if the product(Bank Term Deposit) would be yes or no
 ## Variable Definitions
 1 - age (numeric)  
 2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
