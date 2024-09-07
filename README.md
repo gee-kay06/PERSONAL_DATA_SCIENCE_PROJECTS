@@ -2,7 +2,7 @@
 ## This is a repository of projects I worked on during my Data science internship at Prodigy InfoTech
 ### Task 1: Exploratory data analysis and data cleaning
 #### Details
-Cleaned and perform exploratory data analysis on a dataset that has been split, then built machine learning models to predict the likelihood of survival of a passenger.
+Cleaned and performed exploratory data analysis on a dataset that has been split, then built machine learning models to predict the likelihood of survival of a passenger.
 #### Variable Definitions
 1- age=Age in years  
 2- PassengerId  
