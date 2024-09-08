@@ -1,8 +1,8 @@
-# PRODIGY_INFOTECH_DATA_SCIENCE_INTERNSHIP
+# PERSONAL_DATA_SCIENCE_PROJECTS
 ## This is a repository of projects I worked on during my Data science internship at Prodigy InfoTech
 ### Task 1: Exploratory data analysis and data cleaning
 #### Details
-Cleaned and performed exploratory data analysis on a dataset that has been split, then built machine learning models to predict the likelihood of survival of a passenger.
+Cleaned and performed exploratory data analysis on a dataset that has been split, then built machine learning models to predict the likelihood of survival of a passenger. Ensured to pick and use the most reliable model
 #### Variable Definitions
 1- age=Age in years  
 2- PassengerId  
@@ -18,7 +18,7 @@ Cleaned and performed exploratory data analysis on a dataset that has been split
 ### Task 2: Analysis and visualization of sentimental patterns in social media data
 ### Task 3: Prediction of a customer's likelihood to subscribe a term deposit
 #### Details
-Build a decision tree classifier to predict whether a customer will subscribe to a Term deposit based on their demographic and behavioural data. 
+Built a decision tree classifier to predict whether a customer will subscribe to a Term deposit based on their demographic and behavioural data. 
 #### The dataset can be found in the folder
 It is a bank marketing dataset from the UCI Machine Learning Repository. The data is related to a Portuguese banking institution's direct marketing campaigns(phone calls). Often, more than one contact to the same client was required, to access if the product(Bank Term Deposit) would be yes or no
 #### Variable Definitions
